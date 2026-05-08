@@ -47,6 +47,3 @@ main.py            ← Run once
 scheduler.py       ← Run every 6h
 tests/             ← pytest tests
 ```
-
-## License
-MIT — Kenza Nabaghi
